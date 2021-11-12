@@ -31,7 +31,7 @@ class StoryCircle extends StatelessWidget {
             child: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                'https://yt3.ggpht.com/ytc/AAUvwnjuw5lwktWIwcUABoym8Cr2PWMpesiZLm31lT5lRA=s900-c-k-c0x00ffffff-no-rj',
+                'https://theamericanmag.com/wp-content/uploads/2017/11/article_203_nhPRDjHu1M.jpg',
               ),
             ),
           ),

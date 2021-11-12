@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      builder: DevicePreview.appBuilder,
+      // builder: DevicePreview.appBuilder,
       locale: DevicePreview.locale(context),
       home: HomePage(),
     );

@@ -8,7 +8,7 @@ class CourseItem extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
         Image.network(
-          'https://img-a.udemycdn.com/course/240x135/1764438_44b7_5.jpg?HEHp_xFjZFpdKGD-NYSL-ndsXvwUk3AWaceKbrizVONKYht9EZl7yxR99rSz8z77vRYYABFhb4uQmSJ8goSLeo5hggRSa5I5HmyYeJBJIaMH2YCtN_Pz5jGzTkzyfQ',
+          'https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png',
           fit: BoxFit.fitWidth,
         ),
         const SizedBox(height: 4),
